@@ -1,0 +1,35 @@
+
+# Eclipse
+bin/
+*.launch
+.settings/
+.metadata/
+.classpath
+.project
+eclipse/
+
+# IntelliJ IDEA
+out/
+*.ipr
+*.iws
+*.iml
+.idea/
+
+# Gradle
+.gradle/
+build/
+
+# Minecraft development
+run/
+
+# Research/reference files (not part of this mod)
+libs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+# Forge MDK boilerplate / obsolete files
+changelog.txt
+README.txt
+README-FIX.txt

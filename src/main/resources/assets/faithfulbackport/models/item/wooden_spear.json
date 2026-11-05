@@ -1,0 +1,7 @@
+
+{
+  "parent": "faithfulbackport:item/wooden_spear_in_hand",
+  "textures": {
+    "layer0": "faithfulbackport:item/wooden_spear_in_hand"
+  }
+}

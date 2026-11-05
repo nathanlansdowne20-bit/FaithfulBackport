@@ -1,0 +1,29 @@
+
+{
+  "spear_attack": {
+    "sounds": [
+      "faithfulbackport:spear/attack1",
+      "faithfulbackport:spear/attack3"
+    ]
+  },
+  "spear_hit": {
+    "sounds": [
+      "faithfulbackport:spear/hit1"
+    ]
+  },
+  "spear_lunge_success": {
+    "sounds": [
+      "faithfulbackport:spear/attack4"
+    ]
+  },
+  "spear_lunge_fail": {
+    "sounds": [
+      "faithfulbackport:spear/attack2"
+    ]
+  },
+  "spear_use": {
+    "sounds": [
+      "faithfulbackport:spear/use"
+    ]
+  }
+}
