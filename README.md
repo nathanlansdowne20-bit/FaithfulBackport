@@ -51,7 +51,7 @@ The compiled mod JAR will be located in `build/libs/`.
 
 ## Author
 
-**Ish**
+**_Ish**
 
 ## License
 
